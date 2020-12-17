@@ -1,0 +1,11 @@
+"string"
+'string'
+"string \"inside another\" string"
+"string 'inside another' string"
+10 //integer
+10.11 // Floating-point
+true // Boolean
+false // Boolean
+null // void, empty 
+undefinend // void, empty
+NaN // means "Not a Number"
